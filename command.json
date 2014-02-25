@@ -1,0 +1,36 @@
+{
+    "inputDir": "~/src/transformers/Configs/Excels",
+    "outputDir": "~/src/test/output",
+    "configTarget": "~/src/transformers/Configs/Excels/configTarget.csv",
+    "configRules": "~/src/transformers/Configs/configRules.xlsx",
+    "files": [
+        "chips.xlsx",
+        "items.xlsx",
+        "basements.xlsx",
+        "equips.xlsx",
+        "hero_related.xlsx",
+        "npc.xlsx",
+        "pve.xlsx",
+        "skills.xlsx",
+        "tech.xlsx"
+    ],
+    "jsonFiles": [
+        "combiners.json",
+        "friendInvitation.json",
+        "gacha.json",
+        "gamer_fake.json",
+        "giftCodeRewards.json",
+        "globalConfigs.json",
+        "loginBonus.json",
+        "loots.json",
+        "lootUnits.json",
+        "operations.json",
+        "packs.json",
+        "purchaseEvents.json",
+        "relationships.json",
+        "sparkPvp.json",
+        "stores.json",
+        "trainings.json",
+        "vip.json"
+    ]
+}

@@ -1,0 +1,25 @@
+{
+  "name": "xlsx2json",
+  "version": "0.0.1",
+  "description": "",
+  "main": "xlsx2json.js",
+  "dependencies": {
+    "commander": "2.1.0",
+    "revalidator": "0.1.6",
+    "xlsx": "0.3.3"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": ""
+  },
+  "repository": {
+    "type": "git",
+    "url": ""
+  },
+  "keywords": [
+    "xlsx",
+    "json"
+  ],
+  "author": "xuanzhi.zhang",
+  "license": "BSD-2-Clause"
+}
